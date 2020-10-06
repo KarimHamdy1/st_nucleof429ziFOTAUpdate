@@ -1,0 +1,9 @@
+config:
+    # Debug enabled
+    ZERYNTH_DEBUG: true
+    # Debug level 0
+    ZERYNTH_YOUR_LIBRARY_DEBUG: 0
+    ZDM_LOG_LEVEL: 0
+    wholeFile : 0
+    ZERYNTH_SOCKETS_DEBUG: 4
+    ZERYNTH_SSL_MAX_CONTENT_LEN: 8192*2
